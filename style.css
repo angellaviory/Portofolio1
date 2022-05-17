@@ -1,0 +1,40 @@
+.slider {
+    height: 90vh;
+}
+
+.carousel-caption {
+    background-color: rgba(95, 91, 91, 0.3);
+    margin-bottom: 20px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.background-color {
+    background-color: rgb(206, 203, 203);
+    padding: 10px;
+}
+
+.background-color-2 {
+    background-color: rgba(206, 203, 203, 0.2);
+}
+
+.header-page {
+    height: 250px;
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.page-title {
+    width: 70%;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: 2px solid white;
+    margin-top: 50px;
+}
